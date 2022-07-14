@@ -1,0 +1,1 @@
+This repository contains source code I used for processing image with the magick package.
